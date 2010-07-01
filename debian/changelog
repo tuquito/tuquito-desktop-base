@@ -1,3 +1,9 @@
+tuquito-desktop-base (4.0-3) lucid; urgency=low
+
+  * revisión de paquetes
+
+ -- Mario Colque <mario@tuquito.org.ar>  Thu, 01 Jul 2010 16:36:05 -0300
+
 tuquito-desktop-base (4.0-2.2) lucid; urgency=low
 
   * Revisión de dependencias
