@@ -1,3 +1,9 @@
+tuquito-desktop-base (4.0-5) lucid; urgency=low
+
+  * agregado tuquito-i18n
+
+ -- Mario Colque <mario@tuquito.org.ar>  Tue, 06 Jul 2010 03:36:55 -0300
+
 tuquito-desktop-base (4.0-4) lucid; urgency=low
 
   * agregado tuquito-software-properties
