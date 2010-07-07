@@ -1,3 +1,9 @@
+tuquito-desktop-base (4.0-6) lucid; urgency=low
+
+  * agregado startupmanager
+
+ -- Mario Colque <mario@tuquito.org.ar>  Wed, 07 Jul 2010 18:04:50 -0300
+
 tuquito-desktop-base (4.0-5) lucid; urgency=low
 
   * agregado tuquito-i18n
