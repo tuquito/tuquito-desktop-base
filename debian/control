@@ -7,7 +7,7 @@ Standards-Version: 3.8.1
 
 Package: tuquito-desktop-base
 Architecture: all
-Depends: aptito, guake, synaptic, tuquito-software-manager, trss, tuquito-bienvenida, tuquito-control-center, tuquito-control-parental, tuquito-sounds, tuquito-update, tuquito-upgrade-manager, tuquito-wia, simple-ccsm, simple-scan, usb-creator-gtk, xchat, startupmanager
+Depends: aptito, guake, synaptic, tuquito-software-manager, trss, tuquito-bienvenida, tuquito-control-center, tuquito-control-parental, tuquito-meta-codecs, tuquito-sounds, tuquito-update, tuquito-upgrade-manager, tuquito-wia, simple-ccsm, simple-scan, usb-creator-gtk, xchat, startupmanager
 Description: Escritorio de Tuquito Base
  Instala todas las aplicaciones de Tuquito para la edición Base
  * Tuquito Team! - 2010
